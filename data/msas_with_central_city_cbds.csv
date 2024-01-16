@@ -1,0 +1,386 @@
+state,placefp,cbsa,stab,placenm,pop2k,popinmsa,msamdivname,countynumeric,place,cbd_retail_long,cbd_retail_lat,arcgis_match,arcgis_long,arcgis_lat
+48,1000,10180,TX,Abilene city,115930,115930,"Abilene, TX Metropolitan Statistical Area",441,Abilene,-99.733101,32.448601,M,-99.741421,32.449173
+39,1000,10420,OH,Akron city,217074,217074,"Akron, OH Metropolitan Statistical Area",153,Akron,-81.518898,41.0811,M,-81.51406,41.084191
+13,1052,10500,GA,Albany city,76939,76939,"Albany, GA Metropolitan Statistical Area",95,Albany,-84.151604,31.5786,M,-84.15601,31.580764
+36,1000,10580,NY,Albany city,95658,95658,"Albany-Schenectady-Troy, NY Metropolitan Statistical Area",1,Albany,-73.750999,42.6525,M,-73.755248,42.651441
+35,2000,10740,NM,Albuquerque city,448607,448607,"Albuquerque, NM Metropolitan Statistical Area",1,Albuquerque,-106.65,35.085602,M,-106.648641,35.084184
+22,975,10780,LA,Alexandria city,46342,46342,"Alexandria, LA Metropolitan Statistical Area",79,Alexandria,-92.444702,31.311001,M,-92.44564699999999,31.312681
+42,2000,10900,PA,Allentown city,106632,106632,"Allentown-Bethlehem-Easton, PA-NJ Metropolitan Statistical Area",77,Allentown,-75.4729,40.602001,M,-75.47019899999999,40.602571
+42,2184,11020,PA,Altoona city,49523,49523,"Altoona, PA Metropolitan Statistical Area",13,Altoona,-78.402199,40.516602,M,-78.3989,40.507192
+48,3000,11100,TX,Amarillo city,173627,173627,"Amarillo, TX Metropolitan Statistical Area",375,Amarillo,-101.837,35.207401,M,-101.833891,35.207251
+19,1855,11180,IA,Ames city,50731,50731,"Ames, IA Metropolitan Statistical Area",169,Ames,,,M,-93.6202,42.025342
+2,3000,11260,AK,Anchorage municipality,260283,260283,"Anchorage, AK Metropolitan Statistical Area",20,Anchorage,,,M,-149.858379,61.217546
+18,1468,11300,IN,Anderson city,59734,59734,"Anderson, IN Metropolitan Statistical Area",95,Anderson,-85.677002,40.1054,M,-85.678691,40.102162
+45,1360,11340,SC,Anderson city,25514,25514,"Anderson, SC Metropolitan Statistical Area",7,Anderson,-82.650398,34.504799,M,-82.64957800000001,34.500444
+26,3000,11460,MI,Ann Arbor city,114024,114024,"Ann Arbor, MI Metropolitan Statistical Area",161,Ann Arbor,-83.745903,42.280201,M,-83.74847699999999,42.281871
+1,1852,11500,AL,Anniston city,24276,24276,"Anniston-Oxford, AL Metropolitan Statistical Area",15,Anniston,-85.8302,33.657902,M,-85.819447,33.657113
+55,2375,11540,WI,Appleton city,69275,68443.695,"Appleton, WI Metropolitan Statistical Area",87,Appleton,-88.409599,44.261902,M,-88.416558,44.261783
+37,2140,11700,NC,Asheville city,68889,68889,"Asheville, NC Metropolitan Statistical Area",21,Asheville,-82.5532,35.5951,M,-82.55313700000001,35.598463
+13,3440,12020,GA,Athens-Clarke County (balance),100266,100266,"Athens-Clarke County, GA Metropolitan Statistical Area",59,Athens,-83.3731,33.959499,M,-83.373248,33.958134
+13,4000,12060,GA,Atlanta city,416474,416474,"Atlanta-Sandy Springs-Marietta, GA Metropolitan Statistical Area",121,Atlanta,-84.389099,33.756199,M,-84.39111,33.748313
+34,2080,12100,NJ,Atlantic City city,40517,40517,"Atlantic City-Hammonton, NJ Metropolitan Statistical Area",1,Atlantic City,-74.429901,39.361401,M,-74.42652,39.362813
+1,3076,12220,AL,Auburn city,42987,42987,"Auburn-Opelika, AL Metropolitan Statistical Area",81,Auburn,,,M,-85.481731,32.607464
+13,4204,12260,GA,Augusta-Richmond County (balance),195182,195182,"Augusta-Richmond County, GA-SC Metropolitan Statistical Area",245,Augusta,-81.965797,33.475899,M,-81.97530999999999,33.479092
+48,5000,12420,TX,Austin city,656562,656562,"Austin-Round Rock-San Marcos, TX Metropolitan Statistical Area",453,Austin,,,M,-97.74297900000001,30.267602
+6,3526,12540,CA,Bakersfield city,247057,247057,"Bakersfield-Delano, CA Metropolitan Statistical Area",29,Bakersfield,-119.019,35.377701,M,-119.018858,35.366964
+24,4000,12580,MD,Baltimore city,651154,651154,"Baltimore-Towson, MD Metropolitan Statistical Area",510,Baltimore,-76.613998,39.2901,M,-76.609261,39.290583
+23,2795,12620,ME,Bangor city,31473,31473,"Bangor, ME Metropolitan Statistical Area",19,Bangor,-68.769997,44.800098,M,-68.770769,44.80171
+25,3600,12700,MA,Barnstable Town city,47821,47821,"Barnstable Town, MA Metropolitan Statistical Area",1,Barnstable,,,M,-70.304417,41.701941
+22,5000,12940,LA,Baton Rouge city,227818,227818,"Baton Rouge, LA Metropolitan Statistical Area",33,Baton Rouge,-91.188202,30.452801,M,-91.18698999999999,30.443342
+26,5920,12980,MI,Battle Creek city,53364,53364,"Battle Creek, MI Metropolitan Statistical Area",25,Battle Creek,-85.182701,42.319,M,-85.180221,42.316174
+26,6020,13020,MI,Bay City city,36817,36817,"Bay City, MI Metropolitan Statistical Area",17,Bay City,-83.888901,43.5961,M,-83.884908,43.595272
+48,7000,13140,TX,Beaumont city,113866,113866,"Beaumont-Port Arthur, TX Metropolitan Statistical Area",245,Beaumont,-94.095497,30.0819,M,-94.101581,30.086153
+53,5280,13380,WA,Bellingham city,67171,67171,"Bellingham, WA Metropolitan Statistical Area",73,Bellingham,-122.482,48.749298,M,-122.471219,48.752349
+41,5800,13460,OR,Bend city,52029,52029,"Bend, OR Metropolitan Statistical Area",17,Bend,,,M,-121.31581,44.057394
+24,72450,13644,MD,Silver Spring CDP,76540,76540,"Bethesda-Rockville-Frederick, MD Metropolitan Division",31,Silver Spring,,,M,-77.028868,38.996683
+30,6550,13740,MT,Billings city,89847,89847,"Billings, MT Metropolitan Statistical Area",111,Billings,-108.508,45.782902,M,-108.505517,45.783659
+36,6607,13780,NY,Binghamton city,47380,47380,"Binghamton, NY Metropolitan Statistical Area",7,Binghamton,-75.9104,42.101101,M,-75.91127,42.098684
+1,7000,13820,AL,Birmingham city,242820,242820,"Birmingham-Hoover, AL Metropolitan Statistical Area",73,Birmingham,-86.810699,33.517399,M,-86.811498,33.520291
+38,7200,13900,ND,Bismarck city,55532,55532,"Bismarck, ND Metropolitan Statistical Area",15,Bismarck,-100.786,46.810799,M,-100.779329,46.805367
+51,7784,13980,VA,Blacksburg town,39573,39573,"Blacksburg-Christiansburg-Radford, VA Metropolitan Statistical Area",121,Blacksburg,,,T,-80.410577,37.226263
+18,5860,14020,IN,Bloomington city,69291,69291,"Bloomington, IN Metropolitan Statistical Area",105,Bloomington,-86.532997,39.167301,M,-86.534239,39.166591
+17,6613,14060,IL,Bloomington city,64808,64808,"Bloomington-Normal, IL Metropolitan Statistical Area",113,Bloomington,-88.994301,40.479099,M,-88.99771,40.485012
+16,8830,14260,ID,Boise City city,185787,185787,"Boise City-Nampa, ID Metropolitan Statistical Area",1,Boise,-116.209,43.617199,M,-116.19341,43.606983
+25,7000,14484,MA,Boston city,589141,589141,"Boston-Quincy, MA Metropolitan Division",25,Boston,-71.058701,42.3549,M,-71.056699,42.358631
+8,7850,14500,CO,Boulder city,94673,94673,"Boulder, CO Metropolitan Statistical Area",13,Boulder,-105.279,40.017601,M,-105.27924,40.015741
+21,8902,14540,KY,Bowling Green city,49296,49296,"Bowling Green, KY Metropolitan Statistical Area",227,Bowling Green,,,M,-86.445577,36.994622
+12,64175,14600,FL,Sarasota city,52715,52715,"Bradenton-Sarasota-Venice, FL Metropolitan Statistical Area ",115,Sarasota,,,M,-82.539631,27.338883
+53,7695,14740,WA,Bremerton city,37259,37259,"Bremerton-Silverdale, WA Metropolitan Statistical Area",35,Bremerton,-122.628,47.565601,M,-122.627469,47.564998
+9,8000,14860,CT,Bridgeport city,139529,139529,"Bridgeport-Stamford-Norwalk, CT Metropolitan Statistical Area",1,Bridgeport,-73.191902,41.177898,M,-73.19127,41.181882
+48,10768,15180,TX,Brownsville city,139722,139722,"Brownsville-Harlingen, TX Metropolitan Statistical Area",61,Brownsville,-97.5056,25.895599,M,-97.495497,25.899573
+13,11560,15260,GA,Brunswick city,15600,15600,"Brunswick, GA Metropolitan Statistical Area",127,Brunswick,,,M,-81.495561,31.149744
+36,11000,15380,NY,Buffalo city,292648,292648,"Buffalo-Niagara Falls, NY Metropolitan Statistical Area",29,Buffalo,-78.873299,42.884102,M,-78.878458,42.885443
+37,9060,15500,NC,Burlington city,44917,44917,"Burlington, NC Metropolitan Statistical Area",1,Burlington,-79.436501,36.0942,M,-79.43791,36.096862
+50,10675,15540,VT,Burlington city,38889,38889,"Burlington-South Burlington, VT Metropolitan Statistical Area",7,Burlington,,,M,-73.213228,44.475921
+25,37000,15764,MA,Lowell city,105167,105167,"Cambridge-Newton-Framingham, MA Metropolitan Division",17,Lowell,,,M,-71.31284100000001,42.645893
+34,10000,15804,NJ,Camden city,79904,79904,"Camden, NJ Metropolitan Division",7,Camden,-75.1194,39.945,M,-75.11912700000001,39.945254
+39,12000,15940,OH,Canton city,80806,80806,"Canton-Massillon, OH Metropolitan Statistical Area",151,Canton,-81.373398,40.801998,M,-81.37156899999999,40.797814
+12,10275,15980,FL,Cape Coral city,102286,102286,"Cape Coral-Fort Myers, FL Metropolitan Statistical Area",71,Cape Coral,-81.952103,26.570601,M,-81.95694,26.629822
+29,11242,16020,MO,Cape Girardeau city,35349,35349,"Cape Girardeau-Jackson, MO-IL Metropolitan Statistical Area",31,Cape Girardeau,,,M,-89.544528,37.302712
+32,9700,16180,NV,Carson City,52457,52457,"Carson City, NV Metropolitan Statistical Area",510,Carson City,,,M,-119.76697,39.164884
+56,13150,16220,WY,Casper city,49644,49644,"Casper, WY Metropolitan Statistical Area",25,Casper,-106.322,42.850399,M,-106.327729,42.85009
+19,12000,16300,IA,Cedar Rapids city,120758,120758,"Cedar Rapids, IA Metropolitan Statistical Area",113,Cedar Rapids,-91.6688,41.979301,M,-91.673759,41.976341
+17,12385,16580,IL,Champaign city,67518,67518,"Champaign-Urbana, IL Metropolitan Statistical Area",19,Champaign,-88.243202,40.116001,M,-88.243499,40.114201
+54,14600,16620,WV,Charleston city,53421,53421,"Charleston, WV Metropolitan Statistical Area",39,Charleston,-81.635399,38.351002,M,-81.638927,38.350143
+45,13330,16700,SC,Charleston city,96650,96650,"Charleston-North Charleston-Summerville, SC Metropolitan Statistical Area",19,Charleston,-79.9347,32.783298,M,-79.931597,32.78115
+37,12000,16740,NC,Charlotte city,540828,540828,"Charlotte-Gastonia-Rock Hill, NC-SC Metropolitan Statistical Area",119,Charlotte,-80.843002,35.2243,M,-80.83776,35.222691
+51,14968,16820,VA,Charlottesville city,45049,45049,"Charlottesville, VA Metropolitan Statistical Area",540,Charlottesville,-78.4832,38.0308,M,-78.477527,38.03213
+47,14000,16860,TN,Chattanooga city,155554,155554,"Chattanooga, TN-GA Metropolitan Statistical Area",65,Chattanooga,-85.310501,35.0481,M,-85.30945800000001,35.046444
+56,13900,16940,WY,Cheyenne city,53011,53011,"Cheyenne, WY Metropolitan Statistical Area",21,Cheyenne,,,M,-104.821538,41.134811
+17,14000,16974,IL,Chicago city,2896016,2896016,"Chicago-Joliet-Naperville, IL Metropolitan Division",31,Chicago,-87.626099,41.878201,M,-87.632409,41.884154
+6,13014,17020,CA,Chico city,59954,59954,"Chico, CA Metropolitan Statistical Area",7,Chico,,,M,-121.841977,39.732001
+39,15000,17140,OH,Cincinnati city,331285,331285,"Cincinnati-Middletown, OH-KY-IN Metropolitan Statistical Area",61,Cincinnati,-84.5093,39.100498,M,-84.504547,39.106613
+47,15160,17300,TN,Clarksville city,103455,103455,"Clarksville, TN-KY Metropolitan Statistical Area",125,Clarksville,-87.3563,36.527199,M,-87.359769,36.530753
+47,15400,17420,TN,Cleveland city,37192,37192,"Cleveland, TN Metropolitan Statistical Area",11,Cleveland,,,M,-84.87531799999999,35.160184
+39,16000,17460,OH,Cleveland city,478403,478403,"Cleveland-Elyria-Mentor, OH Metropolitan Statistical Area",35,Cleveland,-81.689697,41.501301,M,-81.69072,41.50475
+16,16750,17660,ID,Coeur d'Alene city,34514,34514,"Coeur dAlene, ID Metropolitan Statistical Area",55,Coeur d'Alene,,,M,-116.776158,47.671856
+48,15976,17780,TX,College Station city,67890,67890,"College Station-Bryan, TX Metropolitan Statistical Area",41,College Station,,,M,-96.325898,30.620541
+8,16000,17820,CO,Colorado Springs city,360890,360890,"Colorado Springs, CO Metropolitan Statistical Area",41,Colorado Springs,-104.825,38.832298,M,-104.821809,38.833453
+29,15670,17860,MO,Columbia city,84531,84531,"Columbia, MO Metropolitan Statistical Area",19,Columbia,-92.330597,38.9519,M,-92.334148,38.952172
+45,16000,17900,SC,Columbia city,116278,116278,"Columbia, SC Metropolitan Statistical Area",79,Columbia,-81.0355,34.005798,M,-81.045247,33.998551
+13,19007,17980,GA,Columbus city (balance),185781,185781,"Columbus, GA-AL Metropolitan Statistical Area",215,Columbus,,,M,-84.98763099999999,32.462924
+18,14734,18020,IN,Columbus city,39059,39059,"Columbus, IN Metropolitan Statistical Area",5,Columbus,,,M,-85.91868100000001,39.201503
+39,18000,18140,OH,Columbus city,711470,711470,"Columbus, OH Metropolitan Statistical Area",49,Columbus,-82.999496,39.961201,M,-83.002979,39.961961
+48,17000,18580,TX,Corpus Christi city,277454,277454,"Corpus Christi, TX Metropolitan Statistical Area",355,Corpus Christi,-97.394302,27.7945,M,-97.403559,27.796412
+41,15800,18700,OR,Corvallis city,49322,49322,"Corvallis, OR Metropolitan Statistical Area",3,Corvallis,,,M,-123.26353,44.565036
+24,21325,19060,MD,Cumberland city,21518,21518,"Cumberland, MD-WV Metropolitan Statistical Area",1,Cumberland,-78.762199,39.6525,M,-78.76333099999999,39.651773
+48,19000,19124,TX,Dallas city,1188580,1188580,"Dallas-Plano-Irving, TX Metropolitan Division",113,Dallas,-96.798698,32.780399,M,-96.795399,32.778154
+13,21380,19140,GA,Dalton city,27912,27912,"Dalton, GA Metropolitan Statistical Area",313,Dalton,,,M,-84.972177,34.761454
+17,18563,19180,IL,Danville city,33904,33904,"Danville, IL Metropolitan Statistical Area",183,Danville,,,M,-87.63043,40.159463
+51,21344,19260,VA,Danville city,48411,48411,"Danville, VA Metropolitan Statistical Area",590,Danville,-79.387497,36.582901,M,-79.417198,36.585983
+19,19000,19340,IA,Davenport city,98359,98359,"Davenport-Moline-Rock Island, IA-IL Metropolitan Statistical Area",163,Davenport,-90.576897,41.520199,M,-90.576399,41.538262
+39,21000,19380,OH,Dayton city,166179,166179,"Dayton, OH Metropolitan Statistical Area",113,Dayton,-84.191902,39.761002,M,-84.194439,39.759111
+1,20104,19460,AL,Decatur city,53846,53738.309,"Decatur, AL Metropolitan Statistical Area",103,Decatur,,,M,-86.979787,34.607404
+17,18823,19500,IL,Decatur city,81860,81860,"Decatur, IL Metropolitan Statistical Area",115,Decatur,-88.951302,39.843498,M,-88.952457,39.845843
+12,17200,19660,FL,Deltona city,69543,69543,"Deltona-Daytona Beach-Ormond Beach, FL Metropolitan Statistical Area",127,Deltona,,,M,-81.223348,28.932211
+8,20000,19740,CO,Denver city,554636,554636,"Denver-Aurora-Broomfield, CO Metropolitan Statistical Area",31,Denver,-104.997,39.749298,M,-104.992259,39.740012
+19,21000,19780,IA,Des Moines city,198682,198682,"Des Moines-West Des Moines, IA Metropolitan Statistical Area",153,Des Moines,-93.619598,41.5896,M,-93.615647,41.589762
+26,22000,19804,MI,Detroit city,951270,951270,"Detroit-Livonia-Dearborn, MI Metropolitan Division",163,Detroit,-83.049103,42.332298,M,-83.047917,42.331681
+1,21184,20020,AL,Dothan city,57087,56459.043,"Dothan, AL Metropolitan Statistical Area",69,Dothan,,,M,-85.393327,31.223241
+10,21200,20100,DE,Dover city,32135,32135,"Dover, DE Metropolitan Statistical Area",1,Dover,,,M,-75.52473000000001,39.158033
+19,22395,20220,IA,Dubuque city,57686,57686,"Dubuque, IA Metropolitan Statistical Area",61,Dubuque,-90.667503,42.500702,M,-90.663268,42.499134
+27,17000,20260,MN,Duluth city,86918,86918,"Duluth, MN-WI Metropolitan Statistical Area",137,Duluth,-92.099899,46.7836,M,-92.09984799999999,46.787957
+37,19000,20500,NC,Durham city,187035,187035,"Durham-Chapel Hill, NC Metropolitan Statistical Area",63,Durham,-78.899696,35.994999,M,-78.89601,35.995272
+55,22300,20740,WI,Eau Claire city,61704,61704,"Eau Claire, WI Metropolitan Statistical Area",35,Eau Claire,-91.500702,44.811001,M,-91.501229,44.81651
+34,20260,20764,NJ,Edison CDP,97687,97687,"Edison-New Brunswick, NJ Metropolitan Division",23,Edison,,,T,-74.38172900000001,40.530132
+6,21782,20940,CA,El Centro city,37835,37835,"El Centro, CA Metropolitan Statistical Area",25,El Centro,,,M,-115.56997,32.795803
+21,24274,21060,KY,Elizabethtown city,22542,22542,"Elizabethtown, KY Metropolitan Statistical Area",93,Elizabethtown,,,M,-85.859117,37.693671
+18,20728,21140,IN,Elkhart city,51874,51874,"Elkhart-Goshen, IN Metropolitan Statistical Area",39,Elkhart,-85.972298,41.684601,M,-85.97567100000001,41.686763
+36,24229,21300,NY,Elmira city,30940,30940,"Elmira, NY Metropolitan Statistical Area",15,Elmira,-76.805496,42.089901,M,-76.79881,42.09041
+48,24000,21340,TX,El Paso city,563662,563662,"El Paso, TX Metropolitan Statistical Area",141,El Paso,-106.487,31.760099,M,-106.487487,31.759162
+42,24000,21500,PA,Erie city,103717,103717,"Erie, PA Metropolitan Statistical Area",49,Erie,-80.083199,42.125999,M,-80.08523700000001,42.129444
+41,23850,21660,OR,Eugene city,137893,137893,"Eugene-Springfield, OR Metropolitan Statistical Area",39,Eugene,-123.095,44.050701,M,-123.088537,44.049921
+18,22000,21780,IN,Evansville city,121582,121582,"Evansville, IN-KY Metropolitan Statistical Area",163,Evansville,-87.573196,37.974098,M,-87.56411799999999,37.976914
+2,24230,21820,AK,Fairbanks city,30224,30224,"Fairbanks, AK Metropolitan Statistical Area",90,Fairbanks,,,M,-147.722061,64.845078
+38,25700,22020,ND,Fargo city,90599,90599,"Fargo, ND-MN Metropolitan Statistical Area",17,Fargo,-96.785797,46.8769,M,-96.78176000000001,46.875907
+35,25800,22140,NM,Farmington city,37844,37844,"Farmington, NM Metropolitan Statistical Area",45,Farmington,,,M,-108.205687,36.728144
+37,22920,22180,NC,Fayetteville city,121015,121015,"Fayetteville, NC Metropolitan Statistical Area",51,Fayetteville,-78.8797,35.053101,M,-78.877577,35.05449
+5,23290,22220,AR,Fayetteville city,58047,58047,"Fayetteville-Springdale-Rogers, AR-MO Metropolitan Statistical Area",143,Fayetteville,-94.164803,36.063099,M,-94.15790800000001,36.063203
+4,23620,22380,AZ,Flagstaff city,52894,52894,"Flagstaff, AZ Metropolitan Statistical Area",5,Flagstaff,,,M,-111.651299,35.198204
+26,29000,22420,MI,Flint city,124943,124943,"Flint, MI Metropolitan Statistical Area",49,Flint,-83.691002,43.019402,M,-83.68602799999999,43.01075
+45,25810,22500,SC,Florence city,30248,30248,"Florence, SC Metropolitan Statistical Area",41,Florence,-79.769501,34.191002,M,-79.76906,34.193634
+1,26896,22520,AL,Florence city,36264,36264,"Florence-Muscle Shoals, AL Metropolitan Statistical Area",77,Florence,-87.655403,34.797001,M,-87.675248,34.800461
+55,26275,22540,WI,Fond du Lac city,42203,42203,"Fond du Lac, WI Metropolitan Statistical Area",39,Fond du Lac,,,M,-88.447087,43.773022
+8,27425,22660,CO,Fort Collins city,118652,118652,"Fort Collins-Loveland, CO Metropolitan Statistical Area",69,Fort Collins,-105.076,40.585701,M,-105.076261,40.581471
+12,24000,22744,FL,Fort Lauderdale city,152397,152397,"Fort Lauderdale-Pompano Beach-Deerfield Beach, FL Metropolitan Division",11,Fort Lauderdale,-80.140999,26.1199,M,-80.143557,26.123674
+5,24550,22900,AR,Fort Smith city,80268,80268,"Fort Smith, AR-OK Metropolitan Statistical Area",131,Fort Smith,-94.426598,35.387699,M,-94.421301,35.3846
+12,78800,23020,FL,Wright CDP,21697,21697,"Fort Walton Beach-Crestview-Destin, FL Metropolitan Statistical Area ",91,Wright,,,M,-86.63838,30.454852
+18,25000,23060,IN,Fort Wayne city,205727,205727,"Fort Wayne, IN Metropolitan Statistical Area",3,Fort Wayne,-85.137604,41.077702,M,-85.138311,41.080261
+48,27000,23104,TX,Fort Worth city,534650,534650,"Fort Worth-Arlington, TX Metropolitan Division",439,Fort Worth,-97.328003,32.7528,M,-97.329387,32.748852
+6,27000,23420,CA,Fresno city,427652,427652,"Fresno, CA Metropolitan Statistical Area",19,Fresno,-119.793,36.7369,M,-119.785727,36.740681
+1,28696,23460,AL,Gadsden city,38978,38978,"Gadsden, AL Metropolitan Statistical Area",55,Gadsden,-86.004303,34.0131,M,-86.00716900000001,34.014773
+12,25175,23540,FL,Gainesville city,95447,95447,"Gainesville, FL Metropolitan Statistical Area",1,Gainesville,-82.325203,29.652,M,-82.32318100000001,29.651951
+13,31908,23580,GA,Gainesville city,25578,25578,"Gainesville, GA Metropolitan Statistical Area",139,Gainesville,,,M,-83.82550000000001,34.297273
+18,27000,23844,IN,Gary city,102746,102746,"Gary, IN Metropolitan Division",89,Gary,-87.336304,41.599701,M,-87.337149,41.602992
+36,29333,24020,NY,Glens Falls city,14354,14354,"Glens Falls, NY Metropolitan Statistical Area",113,Glens Falls,,,M,-73.64375800000001,43.311221
+37,26880,24140,NC,Goldsboro city,39043,39043,"Goldsboro, NC Metropolitan Statistical Area",191,Goldsboro,,,M,-77.996849,35.385961
+38,32060,24220,ND,Grand Forks city,49321,49321,"Grand Forks, ND-MN Metropolitan Statistical Area",35,Grand Forks,-97.031403,47.923599,M,-97.03202899999999,47.924076
+8,31660,24300,CO,Grand Junction city,41986,41986,"Grand Junction, CO Metropolitan Statistical Area",77,Grand Junction,,,M,-108.56445,39.068793
+26,34000,24340,MI,Grand Rapids city,197800,197800,"Grand Rapids-Wyoming, MI Metropolitan Statistical Area",81,Grand Rapids,-85.669701,42.966202,T,-85.671177,42.966413
+30,32800,24500,MT,Great Falls city,56690,56690,"Great Falls, MT Metropolitan Statistical Area",13,Great Falls,-111.298,47.505901,M,-111.306069,47.507136
+8,32155,24540,CO,Greeley city,76930,76930,"Greeley, CO Metropolitan Statistical Area",123,Greeley,-104.692,40.422298,M,-104.69446,40.423274
+55,31000,24580,WI,Green Bay city,102313,102313,"Green Bay, WI Metropolitan Statistical Area",9,Green Bay,-88.011101,44.514599,M,-88.010159,44.51279
+37,28000,24660,NC,Greensboro city,223891,223891,"Greensboro-High Point, NC Metropolitan Statistical Area",81,Greensboro,-79.790604,36.071899,M,-79.79469899999999,36.068992
+37,28080,24780,NC,Greenville city,60476,60476,"Greenville, NC Metropolitan Statistical Area",147,Greenville,,,T,-77.380229,35.607203
+45,30850,24860,SC,Greenville city,56002,56002,"Greenville-Mauldin-Easley, SC Metropolitan Statistical Area",45,Greenville,-82.3974,34.849701,M,-82.40011,34.84827
+28,29700,25060,MS,Gulfport city,71127,71127,"Gulfport-Biloxi, MS Metropolitan Statistical Area",47,Gulfport,-89.092697,30.368,M,-89.092347,30.380324
+24,36075,25180,MD,Hagerstown city,36687,36687,"Hagerstown-Martinsburg, MD-WV Metropolitan Statistical Area",43,Hagerstown,-77.720703,39.6465,M,-77.717581,39.642503
+6,31960,25260,CA,Hanford city,41686,41686,"Hanford-Corcoran, CA Metropolitan Statistical Area",31,Hanford,,,M,-119.645797,36.327174
+42,32800,25420,PA,Harrisburg city,48950,48950,"Harrisburg-Carlisle, PA Metropolitan Statistical Area",43,Harrisburg,-76.884399,40.2565,M,-76.882341,40.259933
+51,35624,25500,VA,Harrisonburg city,40468,40468,"Harrisonburg, VA Metropolitan Statistical Area",660,Harrisonburg,,,M,-78.86903700000001,38.451533
+9,37000,25540,CT,Hartford city,121578,121578,"Hartford-West Hartford-East Hartford, CT Metropolitan Statistical Area",3,Hartford,-72.670601,41.764702,M,-72.67407,41.763323
+28,31020,25620,MS,Hattiesburg city,44779,44779,"Hattiesburg, MS Metropolitan Statistical Area",35,Hattiesburg,,,M,-89.290707,31.327352
+37,31060,25860,NC,Hickory city,37222,37222,"Hickory-Lenoir-Morganton, NC Metropolitan Statistical Area",35,Hickory,-81.341599,35.7328,T,-81.335599,35.734912
+13,38964,25980,GA,Hinesville city,30392,30392,"Hinesville-Fort Stewart, GA Metropolitan Statistical Area",179,Hinesville,,,M,-81.583849,31.851051
+26,38640,26100,MI,Holland city,27846,22137.57,"Holland-Grand Haven, MI Metropolitan Statistical Area",139,Holland,,,M,-86.101748,42.773094
+15,17000,26180,HI,Honolulu CDP,371657,371657,"Honolulu, HI Metropolitan Statistical Area",3,Honolulu,,,M,-157.857607,21.304772
+5,33400,26300,AR,Hot Springs city,35750,35750,"Hot Springs, AR Metropolitan Statistical Area",51,Hot Springs,,,M,-93.05222000000001,34.509442
+22,36255,26380,LA,Houma city,32393,32393,"Houma-Bayou Cane-Thibodaux, LA Metropolitan Statistical Area",109,Houma,,,M,-90.719129,29.59733
+48,35000,26420,TX,Houston city,1953631,1953631,"Houston-Sugar Land-Baytown, TX Metropolitan Statistical Area",201,Houston,-95.363197,29.757401,M,-95.369778,29.760453
+54,39460,26580,WV,Huntington city,51475,51475,"Huntington-Ashland, WV-KY-OH Metropolitan Statistical Area",11,Huntington,-82.444099,38.421501,M,-82.44536700000001,38.419821
+1,37000,26620,AL,Huntsville city,158216,158216,"Huntsville, AL Metropolitan Statistical Area",89,Huntsville,-86.5858,34.729698,M,-86.58497800000001,34.729133
+16,39700,26820,ID,Idaho Falls city,50730,50730,"Idaho Falls, ID Metropolitan Statistical Area",19,Idaho Falls,,,M,-112.041987,43.492002
+18,36003,26900,IN,Indianapolis city (balance),781870,781870,"Indianapolis-Carmel, IN Metropolitan Statistical Area",97,Indianapolis,,,M,-86.149957,39.766913
+19,38595,26980,IA,Iowa City city,62220,62220,"Iowa City, IA Metropolitan Statistical Area",103,Iowa City,,,M,-91.52652999999999,41.657821
+36,38077,27060,NY,Ithaca city,29287,29287,"Ithaca, NY Metropolitan Statistical Area",109,Ithaca,,,M,-76.49545000000001,42.44049
+26,41420,27100,MI,Jackson city,36316,36316,"Jackson, MI Metropolitan Statistical Area",75,Jackson,-84.408302,42.247002,M,-84.40051699999999,42.244762
+28,36000,27140,MS,Jackson city,184256,184256,"Jackson, MS Metropolitan Statistical Area",49,Jackson,-90.184303,32.300598,M,-90.180487,32.298693
+47,37640,27180,TN,Jackson city,59643,59643,"Jackson, TN Metropolitan Statistical Area",113,Jackson,,,M,-88.8194,35.613903
+12,35000,27260,FL,Jacksonville city,735617,735617,"Jacksonville, FL Metropolitan Statistical Area",31,Jacksonville,,,M,-81.656217,30.331474
+37,34200,27340,NC,Jacksonville city,66715,66715,"Jacksonville, NC Metropolitan Statistical Area",133,Jacksonville,,,M,-77.421049,34.74929
+55,37825,27500,WI,Janesville city,59498,59498,"Janesville, WI Metropolitan Statistical Area",105,Janesville,,,M,-89.01821,42.687892
+29,37000,27620,MO,Jefferson City city,39636,39636,"Jefferson City, MO Metropolitan Statistical Area",51,Jefferson City,,,M,-92.17784,38.577512
+47,38320,27740,TN,Johnson City city,55229,55008.082,"Johnson City, TN Metropolitan Statistical Area",179,Johnson City,,,M,-82.34528,36.320083
+42,38288,27780,PA,Johnstown city,23906,23906,"Johnstown, PA Metropolitan Statistical Area",21,Johnstown,-78.920097,40.325699,T,-78.91834900000001,40.327263
+5,35710,27860,AR,Jonesboro city,55515,55515,"Jonesboro, AR Metropolitan Statistical Area",31,Jonesboro,,,M,-90.70505799999999,35.835252
+29,37592,27900,MO,Joplin city,45504,45504,"Joplin, MO Metropolitan Statistical Area",97,Joplin,,,M,-94.51347,37.084764
+26,42160,28020,MI,Kalamazoo city,77145,77145,"Kalamazoo-Portage, MI Metropolitan Statistical Area",77,Kalamazoo,-85.584099,42.290699,M,-85.601108,42.292434
+17,38934,28100,IL,Kankakee city,27491,27491,"Kankakee-Bradley, IL Metropolitan Statistical Area",91,Kankakee,,,M,-87.860409,41.119944
+29,38000,28140,MO,Kansas City city,441545,441545,"Kansas City, MO-KS Metropolitan Statistical Area",95,Kansas City,-94.583504,39.101601,M,-94.58305900000001,39.102954
+53,35275,28420,WA,Kennewick city,54693,54693,"Kennewick-Pasco-Richland, WA Metropolitan Statistical Area",5,Kennewick,,,M,-119.11698,46.208037
+48,39148,28660,TX,Killeen city,86911,86911,"Killeen-Temple-Fort Hood, TX Metropolitan Statistical Area",27,Killeen,-97.728996,31.122101,M,-97.727107,31.116832
+47,39560,28700,TN,Kingsport city,44905,44905,"Kingsport-Bristol-Bristol, TN-VA Metropolitan Statistical Area",163,Kingsport,-82.559402,36.5466,M,-82.560419,36.547803
+36,39727,28740,NY,Kingston city,23456,23456,"Kingston, NY Metropolitan Statistical Area",111,Kingston,,,M,-73.99649700000001,41.926713
+47,40000,28940,TN,Knoxville city,173890,173890,"Knoxville, TN Metropolitan Statistical Area",93,Knoxville,-83.919998,35.9646,M,-83.92091000000001,35.960493
+18,40392,29020,IN,Kokomo city,46113,46113,"Kokomo, IN Metropolitan Statistical Area",67,Kokomo,-86.1306,40.487701,M,-86.126239,40.48651
+55,40775,29100,WI,La Crosse city,51818,51818,"La Crosse, WI-MN Metropolitan Statistical Area",63,La Crosse,-91.2621,43.814999,M,-91.251921,43.81262
+18,40788,29140,IN,Lafayette city,56397,56397,"Lafayette, IN Metropolitan Statistical Area",157,Lafayette,-86.892303,40.418999,M,-86.876548,40.417374
+22,40735,29180,LA,Lafayette city,110257,110257,"Lafayette, LA Metropolitan Statistical Area",55,Lafayette,-92.0215,30.225201,M,-92.017051,30.220321
+22,41155,29340,LA,Lake Charles city,71757,71757,"Lake Charles, LA Metropolitan Statistical Area",19,Lake Charles,-93.216904,30.229601,M,-93.22010899999999,30.224033
+55,39225,29404,WI,Kenosha city,90352,90352,"Lake County-Kenosha County, IL-WI Metropolitan Division",59,Kenosha,-87.819,42.584202,M,-87.82364699999999,42.588071
+4,39370,29420,AZ,Lake Havasu City city,41938,41938,"Lake Havasu City-Kingman, AZ Metropolitan Statistical Area",15,Lake Havasu City,,,M,-114.34586,34.473983
+12,38250,29460,FL,Lakeland city,78452,78452,"Lakeland-Winter Haven, FL Metropolitan Statistical Area",105,Lakeland,-81.955299,28.0481,M,-81.947858,28.044192
+42,41216,29540,PA,Lancaster city,56348,56348,"Lancaster, PA Metropolitan Statistical Area",71,Lancaster,-76.306099,40.039299,M,-76.30126900000001,40.038041
+26,46000,29620,MI,Lansing city,119128,119128,"Lansing-East Lansing, MI Metropolitan Statistical Area",65,Lansing,-84.552597,42.730499,M,-84.55225,42.73194
+48,41464,29700,TX,Laredo city,176576,176576,"Laredo, TX Metropolitan Statistical Area",479,Laredo,-99.506401,27.504801,M,-99.502,27.530921
+35,39380,29740,NM,Las Cruces city,74267,74267,"Las Cruces, NM Metropolitan Statistical Area",13,Las Cruces,-106.788,32.311901,M,-106.777847,32.3069
+32,40000,29820,NV,Las Vegas city,478434,478434,"Las Vegas-Paradise, NV Metropolitan Statistical Area",3,Las Vegas,-115.141,36.1702,M,-115.139968,36.171911
+20,38900,29940,KS,Lawrence city,80098,80098,"Lawrence, KS Metropolitan Statistical Area",45,Lawrence,,,M,-95.23653,38.973063
+40,41850,30020,OK,Lawton city,92757,92757,"Lawton, OK Metropolitan Statistical Area",31,Lawton,-98.395599,34.6049,M,-98.38991900000001,34.605181
+42,42168,30140,PA,Lebanon city,24461,24461,"Lebanon, PA Metropolitan Statistical Area",75,Lebanon,,,M,-76.425927,40.330193
+16,46540,30300,ID,Lewiston city,30904,30904,"Lewiston, ID-WA Metropolitan Statistical Area",69,Lewiston,,,M,-117.016659,46.418649
+23,38740,30340,ME,Lewiston city,35690,35690,"Lewiston-Auburn, ME Metropolitan Statistical Area",1,Lewiston,-70.226997,44.0947,M,-70.21834800000001,44.098553
+23,38740,30340,ME,Lewiston city,35690,35690,"Lewiston-Auburn, ME Metropolitan Statistical Area",1,Lewiston,-70.218201,44.0956,M,-70.21834800000001,44.098553
+21,46027,30460,KY,Lexington-Fayette,260512,260512,"Lexington-Fayette, KY Metropolitan Statistical Area",67,Lexington,-84.497398,38.047401,M,-84.50032,38.048593
+39,43554,30620,OH,Lima city,40081,40081,"Lima, OH Metropolitan Statistical Area",3,Lima,-84.107697,40.740002,T,-84.10728899999999,40.742692
+31,28000,30700,NE,Lincoln city,225581,225581,"Lincoln, NE Metropolitan Statistical Area",109,Lincoln,-96.702301,40.813099,M,-96.70773800000001,40.813623
+5,41000,30780,AR,Little Rock city,183133,183133,"Little Rock-North Little Rock-Conway, AR Metropolitan Statistical Area",119,Little Rock,-92.271202,34.7439,M,-92.274491,34.748654
+49,45860,30860,UT,Logan city,42670,42670,"Logan, UT-ID Metropolitan Statistical Area",5,Logan,,,M,-111.834851,41.736182
+48,43888,30980,TX,Longview city,71746,70167.586,"Longview, TX Metropolitan Statistical Area",183,Longview,-94.741699,32.496601,M,-94.74106999999999,32.500641
+53,40245,31020,WA,Longview city,34660,34660,"Longview, WA Metropolitan Statistical Area",15,Longview,,,M,-122.950537,46.14681
+6,44000,31084,CA,Los Angeles city,3694820,3694820,"Los Angeles-Long Beach-Glendale, CA Metropolitan Division",37,Los Angeles,-118.253,34.049999,M,-118.245321,34.053491
+21,48000,31140,KY,Louisville city,256231,256231,"Louisville/Jefferson County, KY-IN Metropolitan Statistical Area",111,Louisville,-85.753197,38.2533,M,-85.766401,38.254862
+48,45000,31180,TX,Lubbock city,199564,199564,"Lubbock, TX Metropolitan Statistical Area",303,Lubbock,-101.847,33.584099,M,-101.845009,33.584514
+51,47672,31340,VA,Lynchburg city,65269,65269,"Lynchburg, VA Metropolitan Statistical Area",680,Lynchburg,-79.142799,37.414101,M,-79.142837,37.41402
+13,49000,31420,GA,Macon city,97255,97255,"Macon, GA Metropolitan Statistical Area",21,Macon,-83.628098,32.837299,M,-83.62758,32.839683
+6,45022,31460,CA,Madera city,43207,43207,"Madera-Chowchilla, CA Metropolitan Statistical Area",39,Madera,,,M,-120.06399,36.962053
+55,48000,31540,WI,Madison city,208054,208054,"Madison, WI Metropolitan Statistical Area",25,Madison,-89.386398,43.075298,M,-89.386691,43.072951
+33,45140,31700,NH,Manchester city,107006,107006,"Manchester-Nashua, NH Metropolitan Statistical Area",11,Manchester,-71.463097,42.9939,M,-71.463089,42.991171
+20,44250,31740,KS,Manhattan city,44831,44831,"Manhattan, KS Metropolitan Statistical Area",161,Manhattan,,,M,-96.561829,39.178812
+27,39878,31860,MN,Mankato city,32427,32427,"Mankato-North Mankato, MN Metropolitan Statistical Area",13,Mankato,,,M,-94.002409,44.167404
+39,47138,31900,OH,Mansfield city,49346,49346,"Mansfield, OH Metropolitan Statistical Area",139,Mansfield,-82.516701,40.758598,M,-82.514797,40.758514
+48,45384,32580,TX,McAllen city,106414,106414,"McAllen-Edinburg-Mission, TX Metropolitan Statistical Area",215,McAllen,-98.2351,26.2008,M,-98.229361,26.207423
+41,47000,32780,OR,Medford city,63154,63154,"Medford, OR Metropolitan Statistical Area",29,Medford,-122.872,42.327499,M,-122.875608,42.323563
+47,48000,32820,TN,Memphis city,650100,650100,"Memphis, TN-MS-AR Metropolitan Statistical Area",157,Memphis,-90.055496,35.1427,M,-90.049249,35.149763
+6,46898,32900,CA,Merced city,63893,63893,"Merced, CA Metropolitan Statistical Area",47,Merced,,,M,-120.486198,37.301272
+12,45000,33124,FL,Miami city,362470,362470,"Miami-Miami Beach-Kendall, FL Metropolitan Division",86,Miami,-80.191803,25.7749,M,-80.23742,25.728981
+18,48798,33140,IN,Michigan City city,32900,32900,"Michigan City-La Porte, IN Metropolitan Statistical Area",91,Michigan City,,,M,-86.90316900000001,41.719364
+48,48072,33260,TX,Midland city,94996,94996,"Midland, TX Metropolitan Statistical Area",329,Midland,-102.077,31.9984,M,-102.075677,32.000442
+55,53000,33340,WI,Milwaukee city,596974,596974,"Milwaukee-Waukesha-West Allis, WI Metropolitan Statistical Area",79,Milwaukee,-87.907097,43.036098,M,-87.90684,43.041813
+27,43000,33460,MN,Minneapolis city,382618,382618,"Minneapolis-St. Paul-Bloomington, MN-WI Metropolitan Statistical Area",53,Minneapolis,-93.267601,44.977901,M,-93.264927,44.979028
+30,50200,33540,MT,Missoula city,57053,57053,"Missoula, MT Metropolitan Statistical Area",63,Missoula,,,M,-113.996229,46.872778
+1,50000,33660,AL,Mobile city,198915,198915,"Mobile, AL Metropolitan Statistical Area",97,Mobile,-88.042503,30.691999,M,-88.05323799999999,30.686391
+6,48354,33700,CA,Modesto city,188856,188856,"Modesto, CA Metropolitan Statistical Area",99,Modesto,-120.996,37.640301,M,-120.999588,37.638304
+22,51410,33740,LA,Monroe city,53107,53107,"Monroe, LA Metropolitan Statistical Area",73,Monroe,-92.113297,32.505299,M,-92.118787,32.509831
+26,55020,33780,MI,Monroe city,22076,22076,"Monroe, MI Metropolitan Statistical Area",115,Monroe,,,M,-83.397899,41.916061
+1,51000,33860,AL,Montgomery city,201568,201568,"Montgomery, AL Metropolitan Statistical Area",101,Montgomery,-86.309601,32.378502,M,-86.300628,32.380122
+54,55756,34060,WV,Morgantown city,26809,26809,"Morgantown, WV Metropolitan Statistical Area",61,Morgantown,,,M,-79.957849,39.630371
+47,50280,34100,TN,Morristown city,24965,24965,"Morristown, TN Metropolitan Statistical Area",63,Morristown,,,M,-83.293038,36.215034
+53,47560,34580,WA,Mount Vernon city,26232,26232,"Mount Vernon-Anacortes, WA Metropolitan Statistical Area",57,Mount Vernon,,,M,-122.338918,48.416176
+18,51876,34620,IN,Muncie city,67430,67430,"Muncie, IN Metropolitan Statistical Area",35,Muncie,-85.385902,40.1926,M,-85.381728,40.193162
+26,56320,34740,MI,Muskegon city,40105,40105,"Muskegon-Norton Shores, MI Metropolitan Statistical Area",121,Muskegon,-86.254601,43.239399,M,-86.24592800000001,43.234242
+45,49075,34820,SC,Myrtle Beach city,22759,22759,"Myrtle Beach-North Myrtle Beach-Conway, SC Metropolitan Statistical Area",51,Myrtle Beach,,,M,-78.882659,33.693564
+6,50258,34900,CA,Napa city,72585,72585,"Napa, CA Metropolitan Statistical Area",55,Napa,-122.288,38.297699,M,-122.285218,38.298861
+12,47625,34940,FL,Naples city,20976,20976,"Naples-Marco Island, FL Metropolitan Statistical Area",21,Naples,,,M,-81.79579099999999,26.139092
+47,52006,34980,TN,Nashville-Davidson (balance),545524,545524,"Nashville-Davidson--Murfreesboro--Franklin, TN Metropolitan Statistical Are",37,Nashville,,,M,-86.778359,36.16778
+36,33139,35004,NY,Hempstead village,56554,56554,"Nassau-Suffolk, NY Metropolitan Division",59,Hempstead,,,M,-73.622788,40.709913
+34,51000,35084,NJ,Newark city,273546,273546,"Newark-Union, NJ-PA Metropolitan Division",13,Newark,-74.172302,40.737499,M,-74.17418000000001,40.731973
+9,52000,35300,CT,New Haven city,123626,123626,"New Haven-Milford, CT Metropolitan Statistical Area",9,New Haven,-72.925003,41.305099,M,-72.92497899999999,41.307132
+22,55000,35380,LA,New Orleans city,484674,484674,"New Orleans-Metairie-Kenner, LA Metropolitan Statistical Area",71,New Orleans,-90.070801,29.952499,M,-90.07775100000001,29.953701
+36,51000,35644,NY,New York city,8008278,8008278,"New York-White Plains-Wayne, NY-NJ Metropolitan Division",61,New York,-73.980797,40.756699,M,-74.00711800000001,40.71455
+26,57760,35660,MI,Niles city,12199,12199,"Niles-Benton Harbor, MI Metropolitan Statistical Area",21,Niles,,,M,-86.248417,41.82844
+9,56200,35980,CT,Norwich city,36117,36117,"Norwich-New London, CT Metropolitan Statistical Area",11,Norwich,-72.074997,41.524502,M,-72.07570800000001,41.526561
+6,53000,36084,CA,Oakland city,399484,399484,"Oakland-Fremont-Hayward, CA Metropolitan Division",1,Oakland,-122.271,37.805302,M,-122.273019,37.805064
+12,50750,36100,FL,Ocala city,45943,45943,"Ocala, FL Metropolitan Statistical Area",83,Ocala,-82.1353,29.1819,M,-82.140389,29.187521
+34,54360,36140,NJ,Ocean City city,15378,15378,"Ocean City, NJ Metropolitan Statistical Area",9,Ocean City,,,M,-74.575551,39.279402
+48,53388,36220,TX,Odessa city,89901,88912.094,"Odessa, TX Metropolitan Statistical Area",135,Odessa,-102.373,31.848101,M,-102.374929,31.849264
+49,55980,36260,UT,Ogden city,77226,77226,"Ogden-Clearfield, UT Metropolitan Statistical Area",57,Ogden,-111.973,41.2216,M,-111.970477,41.222361
+40,55000,36420,OK,Oklahoma City city,506080,506080,"Oklahoma City, OK Metropolitan Statistical Area",109,Oklahoma City,-97.522499,35.468201,M,-97.520349,35.472013
+53,51300,36500,WA,Olympia city,42514,42514,"Olympia, WA Metropolitan Statistical Area",67,Olympia,-122.9,47.039902,M,-122.891359,47.039226
+31,37000,36540,NE,Omaha city,390007,390007,"Omaha-Council Bluffs, NE-IA Metropolitan Statistical Area",55,Omaha,-95.933098,41.256699,M,-95.940589,41.260692
+12,53000,36740,FL,Orlando city,185951,185951,"Orlando-Kissimmee-Sanford, FL Metropolitan Statistical Area",95,Orlando,-81.378799,28.543501,M,-81.37738899999999,28.538234
+55,60500,36780,WI,Oshkosh city,62916,62916,"Oshkosh-Neenah, WI Metropolitan Statistical Area",139,Oshkosh,-88.539803,44.017799,M,-88.544427,44.024914
+21,58620,36980,KY,Owensboro city,54067,54067,"Owensboro, KY Metropolitan Statistical Area",59,Owensboro,-87.111504,37.774899,M,-87.11351000000001,37.77421
+6,54652,37100,CA,Oxnard city,170358,170358,"Oxnard-Thousand Oaks-Ventura, CA Metropolitan Statistical Area",111,Oxnard,-119.179,34.1973,M,-119.180439,34.200343
+12,54000,37340,FL,Palm Bay city,79413,79413,"Palm Bay-Melbourne-Titusville, FL Metropolitan Statistical Area",9,Palm Bay,,,M,-80.67262700000001,27.999543
+12,54200,37380,FL,Palm Coast city,32732,32732,"Palm Coast, FL Metropolitan Statistical Area",35,Palm Coast,,,M,-81.230008,29.549263
+12,54700,37460,FL,Panama City city,36417,36417,"Panama City-Lynn Haven-Panama City Beach, FL Metropolitan Statistical Area",5,Panama City,-85.646797,30.146799,M,-85.66033,30.159872
+54,62140,37620,WV,Parkersburg city,33099,33099,"Parkersburg-Marietta-Vienna, WV-OH Metropolitan Statistical Area",107,Parkersburg,-81.561501,39.2677,M,-81.55829900000001,39.263432
+28,55360,37700,MS,Pascagoula city,26200,26200,"Pascagoula, MS Metropolitan Statistical Area",59,Pascagoula,-88.556503,30.366899,M,-88.556399,30.365284
+25,37490,37764,MA,Lynn city,89050,89050,"Peabody, MA Metropolitan Division",9,Lynn,,,M,-70.950219,42.463702
+12,55925,37860,FL,Pensacola city,56255,56255,"Pensacola-Ferry Pass-Brent, FL Metropolitan Statistical Area",33,Pensacola,-87.215302,30.412201,M,-87.217238,30.420842
+17,59000,37900,IL,Peoria city,112936,112936,"Peoria, IL Metropolitan Statistical Area",143,Peoria,-89.589996,40.691299,M,-89.58775799999999,40.692144
+42,60000,37964,PA,Philadelphia city,1517550,1517550,"Philadelphia, PA Metropolitan Division",101,Philadelphia,-75.160103,39.950001,M,-75.162447,39.952283
+4,55000,38060,AZ,Phoenix city,1321045,1321045,"Phoenix-Mesa-Glendale, AZ Metropolitan Statistical Area",13,Phoenix,-112.074,33.476898,M,-112.07577,33.448261
+5,55310,38220,AR,Pine Bluff city,55085,55085,"Pine Bluff, AR Metropolitan Statistical Area",69,Pine Bluff,-92.001503,34.223701,M,-92.003398,34.223532
+42,61000,38300,PA,Pittsburgh city,334563,334563,"Pittsburgh, PA Metropolitan Statistical Area",3,Pittsburgh,-80.001503,40.440899,M,-79.997461,40.438332
+25,53960,38340,MA,Pittsfield city,45793,45793,"Pittsfield, MA Metropolitan Statistical Area",3,Pittsfield,-73.252602,42.451801,M,-73.254218,42.447381
+16,64090,38540,ID,Pocatello city,51466,51466,"Pocatello, ID Metropolitan Statistical Area",5,Pocatello,,,M,-112.450568,42.874711
+23,60545,38860,ME,Portland city,64249,64249,"Portland-South Portland-Biddeford, ME Metropolitan Statistical Area",5,Portland,-70.260002,43.655899,M,-70.256648,43.65914
+41,59000,38900,OR,Portland city,529121,529121,"Portland-Vancouver-Hillsboro, OR-WA Metropolitan Statistical Area",51,Portland,-122.676,45.518501,M,-122.67563,45.511788
+12,58715,38940,FL,Port St. Lucie city,88769,88769,"Port St. Lucie, FL Metropolitan Statistical Area",111,Port Saint Lucie,,,M,-80.36331,27.274184
+36,59641,39100,NY,Poughkeepsie city,29871,29871,"Poughkeepsie-Newburgh-Middletown, NY Metropolitan Statistical Area",27,Poughkeepsie,-73.925697,41.702702,M,-73.929371,41.706711
+4,57380,39140,AZ,Prescott city,33938,33938,"Prescott, AZ Metropolitan Statistical Area",25,Prescott,,,M,-112.468729,34.54142
+44,59000,39300,RI,Providence city,173618,173618,"Providence-New Bedford-Fall River, RI-MA Metropolitan Statistical Area",7,Providence,-71.413696,41.824001,M,-71.41199,41.82387
+49,62470,39340,UT,Provo city,105166,105166,"Provo-Orem, UT Metropolitan Statistical Area",49,Provo,-111.661,40.232498,M,-111.668509,40.233774
+8,62000,39380,CO,Pueblo city,102121,102121,"Pueblo, CO Metropolitan Statistical Area",101,Pueblo,-104.612,38.273602,M,-104.61237,38.26386
+12,58350,39460,FL,Port Charlotte CDP,46451,46451,"Punta Gorda, FL Metropolitan Statistical Area",15,Port Charlotte,,,M,-82.10162699999999,26.983424
+55,66000,39540,WI,Racine city,81855,81855,"Racine, WI Metropolitan Statistical Area",101,Racine,-87.782997,42.729301,M,-87.79041100000001,42.725214
+37,55000,39580,NC,Raleigh city,276093,276093,"Raleigh-Cary, NC Metropolitan Statistical Area",183,Raleigh,-78.639099,35.7766,M,-78.642669,35.785513
+46,52980,39660,SD,Rapid City city,59607,59607,"Rapid City, SD Metropolitan Statistical Area",103,Rapid City,,,M,-103.23089,44.081161
+42,63624,39740,PA,Reading city,81207,81207,"Reading, PA Metropolitan Statistical Area",11,Reading,-75.924797,40.335098,M,-75.92783900000001,40.336582
+6,59920,39820,CA,Redding city,80865,80865,"Redding, CA Metropolitan Statistical Area",89,Redding,-122.39,40.5825,M,-122.392929,40.587513
+32,60600,39900,NV,Reno city,180480,180480,"Reno-Sparks, NV Metropolitan Statistical Area",31,Reno,-119.813,39.528702,M,-119.813437,39.527381
+51,67000,40060,VA,Richmond city,197790,197790,"Richmond, VA Metropolitan Statistical Area",760,Richmond,-77.437401,37.542801,M,-77.433649,37.540702
+6,62000,40140,CA,Riverside city,255166,255166,"Riverside-San Bernardino-Ontario, CA Metropolitan Statistical Area",65,Riverside,-117.376,33.980202,T,-117.373879,33.98163
+51,68000,40220,VA,Roanoke city,94911,94911,"Roanoke, VA Metropolitan Statistical Area",770,Roanoke,-79.942802,37.2715,M,-79.940528,37.271521
+27,54880,40340,MN,Rochester city,85806,85806,"Rochester, MN Metropolitan Statistical Area",109,Rochester,-92.463799,44.022301,M,-92.459149,44.019352
+36,63000,40380,NY,Rochester city,219773,219773,"Rochester, NY Metropolitan Statistical Area",55,Rochester,-77.607498,43.1563,M,-77.61603100000001,43.155504
+17,65000,40420,IL,Rockford city,150115,150115,"Rockford, IL Metropolitan Statistical Area",201,Rockford,-89.093399,42.272999,M,-89.07834699999999,42.266902
+33,65140,40484,NH,Rochester city,28461,28461,"Rockingham County-Strafford County, NH Metropolitan Division",17,Rochester,,,M,-70.980357,43.305534
+37,57500,40580,NC,Rocky Mount city,55893,55893,"Rocky Mount, NC Metropolitan Statistical Area",127,Rocky Mount,,,M,-77.79499,35.948841
+13,66668,40660,GA,Rome city,34980,34980,"Rome, GA Metropolitan Statistical Area",115,Rome,,,M,-85.16679000000001,34.244894
+6,64000,40900,CA,Sacramento city,407018,407018,"Sacramento--Arden-Arcade--Roseville, CA Metropolitan Statistical Area",67,Sacramento,-121.493,38.579201,M,-121.491008,38.579063
+26,70520,40980,MI,Saginaw city,61799,61799,"Saginaw-Saginaw Township North, MI Metropolitan Statistical Area",145,Saginaw,-83.936501,43.432499,M,-83.946669,43.419181
+27,56896,41060,MN,St. Cloud city,53125,47759.375,"St. Cloud, MN Metropolitan Statistical Area",145,Saint Cloud,-94.160301,45.560299,M,-94.19752,45.565858
+49,65330,41100,UT,St. George city,49663,49663,"St. George, UT Metropolitan Statistical Area",53,Saint George,,,M,-113.5833,37.109074
+29,64550,41140,MO,St. Joseph city,73990,73990,"St. Joseph, MO-KS Metropolitan Statistical Area",21,Saint Joseph,-94.851898,39.766399,M,-94.85606799999999,39.766602
+29,65000,41180,MO,St. Louis city,348189,348189,"St. Louis, MO-IL Metropolitan Statistical Area",510,Saint Louis,-90.192802,38.6283,M,-90.199511,38.627744
+41,64900,41420,OR,Salem city,136924,136924,"Salem, OR Metropolitan Statistical Area",47,Salem,-123.038,44.942799,M,-123.043808,44.933259
+6,64224,41500,CA,Salinas city,151060,151060,"Salinas, CA Metropolitan Statistical Area",53,Salinas,-121.655,36.674599,M,-121.65482,36.670883
+24,69925,41540,MD,Salisbury city,23743,23743,"Salisbury, MD Metropolitan Statistical Area",45,Salisbury,,,M,-75.59532,38.365734
+49,67000,41620,UT,Salt Lake City city,181743,181743,"Salt Lake City, UT Metropolitan Statistical Area",35,Salt Lake City,-111.889,40.763599,M,-111.888231,40.759501
+48,64472,41660,TX,San Angelo city,88439,88439,"San Angelo, TX Metropolitan Statistical Area",451,San Angelo,-100.439,31.4627,M,-100.442417,31.461502
+48,65000,41700,TX,San Antonio city,1144646,1144646,"San Antonio-New Braunfels, TX Metropolitan Statistical Area",29,San Antonio,-98.4907,29.426399,M,-98.494607,29.424582
+6,66000,41740,CA,San Diego city,1223400,1223400,"San Diego-Carlsbad-San Marcos, CA Metropolitan Statistical Area",73,San Diego,-117.162,32.714001,M,-117.161719,32.715691
+39,70380,41780,OH,Sandusky city,27844,27844,"Sandusky, OH Metropolitan Statistical Area",43,Sandusky,,,M,-82.707369,41.44876
+6,67000,41884,CA,San Francisco city,776733,776733,"San Francisco-San Mateo-Redwood City, CA Metropolitan Division",75,San Francisco,-122.408,37.785702,M,-122.419639,37.777122
+6,68000,41940,CA,San Jose city,894943,894943,"San Jose-Sunnyvale-Santa Clara, CA Metropolitan Statistical Area",85,San Jose,-121.89,37.334202,M,-121.88579,37.338474
+6,68154,42020,CA,San Luis Obispo city,44174,44174,"San Luis Obispo-Paso Robles, CA Metropolitan Statistical Area",79,San Luis Obispo,,,M,-120.662521,35.285522
+6,69000,42044,CA,Santa Ana city,337977,337977,"Santa Ana-Anaheim-Irvine, CA Metropolitan Division",59,Santa Ana,-117.869,33.751701,M,-117.874297,33.749584
+6,69070,42060,CA,Santa Barbara city,92325,92325,"Santa Barbara-Santa Maria-Goleta, CA Metropolitan Statistical Area",83,Santa Barbara,-119.697,34.422199,M,-119.69887,34.419251
+6,69112,42100,CA,Santa Cruz city,54593,54593,"Santa Cruz-Watsonville, CA Metropolitan Statistical Area",87,Santa Cruz,,,M,-122.030948,36.974021
+35,70500,42140,NM,Santa Fe city,62203,62203,"Santa Fe, NM Metropolitan Statistical Area",49,Santa Fe,,,M,-105.937428,35.691512
+6,70098,42220,CA,Santa Rosa city,147595,147595,"Santa Rosa-Petaluma, CA Metropolitan Statistical Area",97,Santa Rosa,-122.713,38.441399,M,-122.712418,38.437733
+13,69000,42340,GA,Savannah city,131510,131510,"Savannah, GA Metropolitan Statistical Area",51,Savannah,-81.089996,32.0788,M,-81.090718,32.080781
+42,69000,42540,PA,Scranton city,76415,76415,"Scranton--Wilkes-Barre, PA Metropolitan Statistical Area",69,Scranton,-75.663902,41.408699,M,-75.660788,41.410131
+53,63000,42644,WA,Seattle city,563374,563374,"Seattle-Bellevue-Everett, WA Metropolitan Division",33,Seattle,-122.335,47.6077,M,-122.32944,47.603556
+12,74200,42680,FL,Vero Beach South CDP,20362,20362,"Sebastian-Vero Beach, FL Metropolitan Statistical Area",61,Vero Beach,,,M,-80.394217,27.638851
+55,72975,43100,WI,Sheboygan city,50792,50792,"Sheboygan, WI Metropolitan Statistical Area",117,Sheboygan,-87.712502,43.751598,M,-87.713748,43.749784
+48,67496,43300,TX,Sherman city,35082,35082,"Sherman-Denison, TX Metropolitan Statistical Area",181,Sherman,-96.611603,33.638401,M,-96.609127,33.63604
+22,70000,43340,LA,Shreveport city,200145,200145,"Shreveport-Bossier City, LA Metropolitan Statistical Area",17,Shreveport,-93.749298,32.511799,M,-93.74726800000001,32.514614
+19,73335,43580,IA,Sioux City city,85013,85013,"Sioux City, IA-NE-SD Metropolitan Statistical Area",193,Sioux City,-96.403801,42.493801,M,-96.420939,42.499814
+46,59020,43620,SD,Sioux Falls city,123975,123975,"Sioux Falls, SD Metropolitan Statistical Area",99,Sioux Falls,-96.727303,43.545799,M,-96.731278,43.545351
+18,71000,43780,IN,South Bend city,107789,107789,"South Bend-Mishawaka, IN-MI Metropolitan Statistical Area",141,South Bend,-86.250397,41.674702,M,-86.254037,41.679054
+45,68290,43900,SC,Spartanburg city,39673,39673,"Spartanburg, SC Metropolitan Statistical Area",83,Spartanburg,-81.931702,34.9505,M,-81.934867,34.948251
+53,67000,44060,WA,Spokane city,195629,195629,"Spokane, WA Metropolitan Statistical Area",63,Spokane,-117.421,47.657501,M,-117.412277,47.657256
+17,72000,44100,IL,Springfield city,111454,111454,"Springfield, IL Metropolitan Statistical Area",167,Springfield,-89.647003,39.799801,M,-89.643597,39.801052
+25,67000,44140,MA,Springfield city,152082,152082,"Springfield, MA Metropolitan Statistical Area",13,Springfield,-72.594101,42.103298,M,-72.58929000000001,42.101253
+29,70000,44180,MO,Springfield city,151580,151580,"Springfield, MO Metropolitan Statistical Area",77,Springfield,-93.2901,37.207298,M,-93.291557,37.208974
+39,74118,44220,OH,Springfield city,65358,65358,"Springfield, OH Metropolitan Statistical Area",23,Springfield,-83.806,39.9244,M,-83.80673,39.925021
+42,73808,44300,PA,State College borough,38420,38420,"State College, PA Metropolitan Statistical Area",27,State College,-77.859001,40.7943,M,-77.860698,40.793733
+6,75000,44700,CA,Stockton city,243771,243771,"Stockton, CA Metropolitan Statistical Area",77,Stockton,-121.288,37.952999,M,-121.290749,37.953672
+45,70405,44940,SC,Sumter city,39643,39643,"Sumter, SC Metropolitan Statistical Area",85,Sumter,,,M,-80.34235700000001,33.924342
+36,73000,45060,NY,Syracuse city,147306,147306,"Syracuse, NY Metropolitan Statistical Area",67,Syracuse,-76.150497,43.048199,M,-76.14738800000001,43.049993
+53,70000,45104,WA,Tacoma city,193556,193556,"Tacoma, WA Metropolitan Division",53,Tacoma,-122.44,47.2542,M,-122.44165,47.255129
+12,70600,45220,FL,Tallahassee city,150624,150624,"Tallahassee, FL Metropolitan Statistical Area",73,Tallahassee,-84.281197,30.4405,M,-84.28065100000001,30.439772
+12,71000,45300,FL,Tampa city,303447,303447,"Tampa-St. Petersburg-Clearwater, FL Metropolitan Statistical Area",57,Tampa,-82.456398,27.9491,M,-82.45926900000001,27.946532
+18,75428,45460,IN,Terre Haute city,59614,59614,"Terre Haute, IN Metropolitan Statistical Area",167,Terre Haute,-87.410004,39.465302,M,-87.413229,39.466492
+48,72368,45500,TX,Texarkana city,34782,34782,"Texarkana, TX-Texarkana, AR Metropolitan Statistical Area",37,Texarkana,-94.037102,33.426701,M,-94.048249,33.425583
+39,77000,45780,OH,Toledo city,313619,313619,"Toledo, OH Metropolitan Statistical Area",95,Toledo,-83.536598,41.654099,M,-83.53626,41.653811
+20,71000,45820,KS,Topeka city,122377,122377,"Topeka, KS Metropolitan Statistical Area",177,Topeka,-95.675499,39.050999,M,-95.671177,39.049281
+34,74000,45940,NJ,Trenton city,85403,85403,"Trenton-Ewing, NJ Metropolitan Statistical Area",21,Trenton,-74.759697,40.219101,M,-74.7594,40.217871
+4,77000,46060,AZ,Tucson city,486699,486699,"Tucson, AZ Metropolitan Statistical Area",19,Tucson,-110.97,32.2211,M,-110.969749,32.221551
+40,75000,46140,OK,Tulsa city,393049,393049,"Tulsa, OK Metropolitan Statistical Area",143,Tulsa,-95.990799,36.1521,M,-95.993329,36.149744
+1,77256,46220,AL,Tuscaloosa city,77906,77906,"Tuscaloosa, AL Metropolitan Statistical Area",125,Tuscaloosa,-87.565498,33.209599,M,-87.565927,33.210493
+48,74144,46340,TX,Tyler city,83650,83650,"Tyler, TX Metropolitan Statistical Area",423,Tyler,-95.302399,32.350899,M,-95.294298,32.347472
+36,76540,46540,NY,Utica city,60651,60651,"Utica-Rome, NY Metropolitan Statistical Area",65,Utica,-75.231598,43.102001,M,-75.24275900000001,43.095802
+13,78800,46660,GA,Valdosta city,43724,43724,"Valdosta, GA Metropolitan Statistical Area",185,Valdosta,,,M,-83.280918,30.834723
+6,81666,46700,CA,Vallejo city,116760,116760,"Vallejo-Fairfield, CA Metropolitan Statistical Area",95,Vallejo,-122.259,38.1017,M,-122.254947,38.10083
+48,75428,47020,TX,Victoria city,60603,60603,"Victoria, TX Metropolitan Statistical Area",469,Victoria,-97.004898,28.796499,T,-97.003567,28.805934
+34,76070,47220,NJ,Vineland city,56271,56271,"Vineland-Millville-Bridgeton, NJ Metropolitan Statistical Area",11,Vineland,,,M,-75.02614,39.486191
+51,82000,47260,VA,Virginia Beach city,425257,425257,"Virginia Beach-Norfolk-Newport News, VA-NC Metropolitan Statistical Area",810,Virginia Beach,,,M,-76.059198,36.755023
+6,82954,47300,CA,Visalia city,91565,91565,"Visalia-Porterville, CA Metropolitan Statistical Area",107,Visalia,-119.295,36.330502,M,-119.292907,36.333771
+48,76000,47380,TX,Waco city,113726,113726,"Waco, TX Metropolitan Statistical Area",309,Waco,-97.133598,31.5543,M,-97.14949799999999,31.571823
+13,80508,47580,GA,Warner Robins city,48787,48787,"Warner Robins, GA Metropolitan Statistical Area",153,Warner Robins,,,M,-83.60686699999999,32.620832
+26,84000,47644,MI,Warren city,138247,138247,"Warren-Troy-Farmington Hills, MI Metropolitan Division",99,Warren,,,M,-83.02852,42.511111
+11,50000,47894,DC,Washington city,572059,572059,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",1,Washington,-77.032097,38.9002,M,-77.031958,38.890372
+19,82425,47940,IA,Waterloo city,68747,68747,"Waterloo-Cedar Falls, IA Metropolitan Statistical Area",13,Waterloo,-92.3368,42.5014,M,-92.34215,42.493101
+55,84475,48140,WI,Wausau city,38426,38426,"Wausau, WI Metropolitan Statistical Area",73,Wausau,-89.628502,44.962502,M,-89.630309,44.959529
+54,85156,48260,WV,Weirton city,20411,20411,"Weirton-Steubenville, WV-OH Metropolitan Statistical Area ",29,Weirton,,,M,-80.589367,40.418383
+53,77105,48300,WA,Wenatchee city,27856,27856,"Wenatchee-East Wenatchee, WA Metropolitan Statistical Area",7,Wenatchee,,,M,-120.304879,47.414158
+12,76600,48424,FL,West Palm Beach city,82103,82103,"West Palm Beach-Boca Raton-Boynton Beach, FL Metropolitan Division",99,West Palm Beach,-80.052498,26.713301,M,-80.05269,26.71438
+54,86452,48540,WV,Wheeling city,31419,31419,"Wheeling, WV-OH Metropolitan Statistical Area",69,Wheeling,-80.723198,40.067101,M,-80.721419,40.063964
+20,79000,48620,KS,Wichita city,344284,344284,"Wichita, KS Metropolitan Statistical Area",173,Wichita,-97.337502,37.686901,M,-97.33557999999999,37.68698
+48,79000,48660,TX,Wichita Falls city,104197,104197,"Wichita Falls, TX Metropolitan Statistical Area",485,Wichita Falls,-98.4916,33.906799,M,-98.500987,33.908302
+42,85312,48700,PA,Williamsport city,30706,30706,"Williamsport, PA Metropolitan Statistical Area",81,Williamsport,,,M,-77.001407,41.240944
+10,77580,48864,DE,Wilmington city,72664,72664,"Wilmington, DE-MD-NJ Metropolitan Division",3,Wilmington,-75.549698,39.7435,M,-75.55083999999999,39.740234
+37,74440,48900,NC,Wilmington city,75838,75838,"Wilmington, NC Metropolitan Statistical Area",129,Wilmington,-77.9487,34.2281,M,-77.94599,34.234971
+51,86720,49020,VA,Winchester city,23585,23585,"Winchester, VA-WV Metropolitan Statistical Area",840,Winchester,,,M,-78.16404900000001,39.184
+37,75000,49180,NC,Winston-Salem city,185776,185776,"Winston-Salem, NC Metropolitan Statistical Area",67,Winston-Salem,-80.246803,36.097599,M,-80.24108699999999,36.099623
+25,82000,49340,MA,Worcester city,172648,172648,"Worcester, MA Metropolitan Statistical Area",27,Worcester,-71.800301,42.263802,M,-71.802188,42.263412
+53,80010,49420,WA,Yakima city,71845,71845,"Yakima, WA Metropolitan Statistical Area",77,Yakima,-120.505,46.599098,M,-120.507049,46.604126
+42,87048,49620,PA,York city,40862,40862,"York-Hanover, PA Metropolitan Statistical Area",133,York,-76.726997,39.961601,M,-76.72429,39.964531
+39,88000,49660,OH,Youngstown city,82026,82026,"Youngstown-Warren-Boardman, OH-PA Metropolitan Statistical Area",99,Youngstown,-80.648598,41.099998,M,-80.650789,41.098102
+6,86972,49700,CA,Yuba City city,36758,36758,"Yuba City, CA Metropolitan Statistical Area",101,Yuba City,,,M,-121.619459,39.140783
+4,85540,49740,AZ,Yuma city,77515,77515,"Yuma, AZ Metropolitan Statistical Area",27,Yuma,,,M,-114.624609,32.684851

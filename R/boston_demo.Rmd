@@ -1,0 +1,158 @@
+---
+title: "boston_demo"
+author: "Camden Blatchly"
+date: "1/6/2024"
+output: html_document
+---
+
+```{r}
+
+library(dplyr)
+library(tidycensus)
+library(tigris)
+library(tidyr)
+library(sf)
+library(ggplot2)
+library(osmdata)
+library(readxl)
+
+here::i_am("R/boston_demo.Rmd")
+
+```
+This is a demo workbook for calculating the bid rent curve for Boston. I plan to apply these methods to other major Core-based statistical areas.
+```{r}
+
+# Load city center dataset. Used to calculate tract distance from center
+cbsa_city_hall_centers <- read_excel(
+    here::here("data/cbsa-report-chapter-1-data.xlsx"),
+    sheet = "Principal Cities",
+    skip = 3
+  ) %>%
+  rename(cbsa = `...1`) %>%
+  select(cbsa, Latitude, Longitude) %>%
+  filter(!is.na(Latitude) & !is.na(Longitude)) %>%
+  distinct()
+
+```
+
+
+```{r}
+
+boston_city_center <- cbsa_city_hall_centers %>%
+  filter(cbsa == "14460")
+
+```
+
+
+```{r}
+
+# Convert boston city center to sf point
+city_center <- st_point(c(
+    boston_city_center %>% pull(Longitude) %>% nth(1),
+    boston_city_center %>% pull(Latitude) %>% nth(1))
+  ) %>%
+  st_sfc() %>%
+  st_set_crs(4269) 
+
+buffer_distance_miles <- 20
+buffer_distance_meters <- buffer_distance_miles * 1609.34
+
+# Calculate a buffer for our bid-rent curve. In this example, 
+# I use 10 as the radius
+city_buffer <- st_buffer(city_center, dist = buffer_distance_meters)
+
+# Plot for visual check
+city_buffer %>%
+  ggplot() +
+  basemapR::base_map(bbox = st_bbox(city_buffer), basemap = 'google-hybrid', increase_zoom = 2) +
+  geom_sf(alpha = .5)
+
+```
+
+```{r}
+
+# Load all US tracts
+tracts <- tigris::tracts(cb = TRUE, year = 2021)
+
+# To minimize the amount of tracts checked for intersection with the city buffer
+# I use the CBSA to County crosswalk to examine only counties in my CBSA of interest
+cbsa_to_county_crosswalk <- readr::read_csv(here::here("data/cbsa2fipsxw.csv")) %>%
+  mutate(geoid_co = paste0(fipsstatecode, fipscountycode)) %>%
+  select(cbsacode, geoid_co) %>%
+  distinct()
+
+```
+
+```{r}
+
+# Meters is the default sf unit
+meters_per_mile <- 1609.34
+
+relevant_counties <- cbsa_to_county_crosswalk %>% 
+  filter(cbsacode == "14460") %>%
+  pull(geoid_co) %>%
+  unique()
+
+boston_tracts <- tracts %>%
+  mutate(geoid_co = paste0(STATEFP, COUNTYFP)) %>%
+  filter(geoid_co %in% relevant_counties) %>%
+  sf::st_as_sf()
+
+# Get all census tracts that intersect with the city buffer
+# and calculate tract centroid distance to city center
+intersecting_tracts <- boston_tracts %>%
+  rowwise() %>%
+  mutate(
+    is_in_buffer = any(st_intersects(geometry, city_buffer)),
+    distance_to_buffer_centroid = as.numeric(st_distance(st_centroid(geometry), city_center, by_element = TRUE) / meters_per_mile),
+    tract_area = as.numeric(st_area(geometry)/meters_per_mile)
+  ) %>%
+  filter(is_in_buffer == TRUE) %>%
+  sf::st_as_sf()
+
+city_tracts <- intersecting_tracts %>%
+  pull(GEOID) %>% 
+  unique()
+
+```
+
+
+```{r}
+
+# v22 <- load_variables(2022, "acs5")
+
+acs_vars <- c(
+  "median_gross_1_bed" = "B25031_003",
+  "housing_units" = "B25001_001"
+)
+
+# Convert relevant counties to tidycensus-friendly format
+acs_st <- stringr::str_sub(relevant_counties, 1, 2)
+acs_co <- stringr::str_sub(relevant_counties, 3, 5)
+
+acs_dta <- get_acs("tract", variables = acs_vars, year = 2022, state = acs_st, county = acs_co)
+
+```
+
+
+```{r}
+
+chrt_dta <- acs_dta %>%
+  inner_join(
+    .,
+    intersecting_tracts,
+    by = "GEOID"
+  )
+
+chrt_dta %>%
+  filter(variable == "median_gross_1_bed") %>%
+  # mutate(
+  #   housing_density = estimate / tract_area
+  # ) %>%
+  ggplot(aes(x = distance_to_buffer_centroid, y = estimate)) + 
+  geom_point() +
+  geom_smooth(method = "loess") +
+  labs(title = "Boston bid-rent curve", x = "Distance from city center", y = "Housing density")
+
+
+```

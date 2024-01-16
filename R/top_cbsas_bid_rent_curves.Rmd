@@ -1,0 +1,87 @@
+---
+title: "top_cbsa_bid_rent_curves"
+author: "Camden Blatchly"
+date: "1/9/2024"
+output: html_document
+---
+
+
+```{r}
+
+library(dplyr)
+library(tidycensus)
+library(tigris)
+library(tidyr)
+library(sf)
+library(ggplot2)
+library(osmdata)
+library(readxl)
+
+here::i_am("R/top_cbsas_bid_rent_curves.Rmd")
+
+source(here::here("R/functions.R"))
+
+```
+
+
+```{r}
+
+# Load relevant datasets
+cbsa_city_hall_centers <- read_excel(
+    here::here("data/cbsa-report-chapter-1-data_cpb_edits.xlsx"),
+    sheet = "Principal Cities",
+    skip = 3
+  ) %>%
+  rename(
+    cbsa = `...1`,
+    cbsa_name = `...3`,
+    pop = `2010`
+  ) %>%
+  select(cbsa, cbsa_name, Latitude, Longitude, pop) %>%
+  filter(!is.na(Latitude) & !is.na(Longitude)) %>%
+  arrange(cbsa, cbsa_name, Latitude, Longitude, desc(pop)) %>%
+  distinct(cbsa, cbsa_name, Latitude, Longitude, .keep_all = TRUE)
+
+tracts <- tigris::tracts(cb = TRUE, year = 2021)
+
+cbsa_to_county_crosswalk <- readr::read_csv(here::here("data/cbsa2fipsxw.csv")) %>%
+  mutate(geoid_co = paste0(fipsstatecode, fipscountycode)) %>%
+  select(cbsacode, geoid_co) %>%
+  distinct()
+
+```
+
+
+```{r}
+
+cbsas_by_pop <- tidycensus::get_acs("cbsa", variables = "B01003_001", year = 2022)
+
+top_100_cbsa <- cbsas_by_pop %>%
+  arrange(desc(estimate)) %>%
+  slice_head(n = 100) %>% 
+  pull(GEOID)
+
+```
+
+```{r, eval = FALSE}
+
+for (geoid in top_100_cbsa) {
+  print(paste0("Geoid is ", geoid))
+  cbsa_dta <- get_bid_rent_data(geoid, tracts, cbsa_city_hall_centers, cbsa_to_county_crosswalk)
+  readr::write_csv(cbsa_dta, here::here(paste0("data/bid_rent_", geoid, ".csv")))
+}
+
+```
+
+
+```{r}
+
+bid_rent_all_cbsa_dta <- loadAllBidRentData()
+readr::write_csv(bid_rent_all_cbsa_dta, here::here("data/bid_rent_all_cbsa.csv"))
+
+arrow::write_parquet(bid_rent_all_cbsa_dta, here::here("data/bid_rent_all_cbsa.parquet"))
+
+```
+
+
+
