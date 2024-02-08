@@ -13,4 +13,4 @@ You can view bid rent curve visualizations for every US city [here](https://camd
 
 `R/functions.R` contains the `get_bid_rent_data` function which calculates bid rent values for a single metro area.
 
-`R/boston_demo` was an initial pass at calculating bid rent curves for a particular city. I generalized the methods in the above two files.
+`R/boston_demo` was an initial pass at calculating bid rent curves for a particular city. I generalized the methods I used here in the above two files.
